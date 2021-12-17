@@ -1,1 +1,1 @@
-# GitScratchTest
+# GitPractice
