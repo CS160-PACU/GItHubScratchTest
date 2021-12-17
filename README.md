@@ -1,1 +1,1 @@
-# GItHubScratchTest
+# GitScratchTest
